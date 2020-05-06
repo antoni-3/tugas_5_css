@@ -1,0 +1,39 @@
+div.div_menu {
+   text-transform:uppercase;
+   background-color: rgb(0, 0, 0);
+}
+
+a.menu{
+  color: white;
+}
+
+footer{
+  background-color: rgb(0, 0, 0);
+}
+
+div.slider-div{
+  text-align: center;
+}
+img.slider{
+  height: 25%;
+  width: 46%;
+  padding:6px 0.025px;
+
+  /*
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  */
+
+}
+
+div.footer{
+  color: white;
+  text-align: center;
+}
+
+div.footer-alamat{
+  color: white;
+  text-align: center;
+  font-size: 11px;
+}
